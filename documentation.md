@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
-# How to Write Documentation for a Repository
+# 🪄How to Write Documentation for a Repository🪄
 
-### Why Should We Write Well-Readable README?
+### ⚡️ Why Should We Write Well-Readable README? ⚡️
 The README is the first thing a user or developer sees when they get acquainted with your project. A well-written README will help to understand the purpose of the project, its functionality, and the main points such as installation, configuration, and use.
 
 ## Table of Contents:
