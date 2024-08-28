@@ -102,11 +102,74 @@ Show users how to use your project after installation. This section should inclu
 
 To start the project, run the following command:
 
-```sh
+\```sh
 python main.py
+\```
+
+You can also use the --help command to get more information:
+
+\```sh
+python main.py --help
+\```
+```
+ 
+### 6. Configuration
+
+Describe configuration options and how to set them up. If your project includes a configuration file, provide an example of its structure.
+
+```markdown
+## Configuration
+
+To change the project settings, edit the `config.json` file:
+
+\```json
+{
+    "setting1": "value1",
+    "setting2": "value2"
+}
 \```
 ```
 
+### 7. Contributing
 
+This section is for those who want to contribute to the project. You can provide guidelines for contributors, the process of submitting pull requests, reporting bugs, etc.
+
+```markdown
+## Contributing
+
+We welcome contributions! Here's how you can help:
+1. Fork the repository.
+2. Create a new branch (`git checkout -b new-branch`).
+3. Make your changes and commit them (`git commit -m 'Description of changes'`).
+4. Push your changes (`git push origin new-branch`).
+5. Create a pull request.
+```
+
+### 8. License
+
+Specify the license under which the project is distributed. For example, if you're using the MIT License:
+
+```markdown
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+```
+
+### 9. Authors and Contacts
+
+Provide information about the project authors and contact details:
+
+```markdown
+## Authors and Contacts
+
+- **Your Name** - *Lead Developer* - [yourEmail@example.com](mailto:yourEmail@example.com)
+- **Your Team/Organization** - *Other Contributions* - [organization website](https://example.com)
+
+Special thanks to everyone who contributed to this project!
+```
+
+## Styles and Fonts
+
+## Other Tips
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
