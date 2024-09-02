@@ -239,6 +239,7 @@ Here's a small set of basic stylistic techniques to make your README more readab
 - [Horizontal Lines](#8-horizontal-lines)
 - [Emojis](#9-emojis)
 - [Custom HTML](#10-custom-html)
+- [Superscripts](#11-superscripts)
 
 ### 1. Headings
 Use headings (`#`, `##`, `###`, `####` etc.) to structure your document and create a clear hierarchy. This helps users quickly navigate through different sections.
@@ -378,6 +379,30 @@ For more complex formatting, you can use custom HTML within your markdown.
 </p>
 
 These stylistic techniques will help make your README more user-friendly, organized, and visually appealing. Remember, a well-structured README is not only informative but also easy to read and navigate.
+
+### 11. Superscripts
+
+Superscripts and subscripts can be used to denote mathematical expressions, scientific notations, or footnotes in your README.
+
+To create superscripts, use the `<sup>` HTML tag, and for subscripts, use the `<sub>` HTML tag.
+
+#### Example:
+
+To display superscripts or subscripts in your README:
+
+```
+E = mc<sup>2</sup>
+H<sub>2</sub>O
+```
+
+Rendered output:
+
+E = mc<sup>2</sup>
+
+H<sub>2</sub>O
+
+By using these tags, you can create clear and precise scientific and mathematical documentation directly in your README.
+
 
 ## Other
 
