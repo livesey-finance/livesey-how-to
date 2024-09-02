@@ -333,9 +333,15 @@ Use blockquotes to highlight important information or notes.
 
 ```
 > This is a blockquote used for emphasizing a note or quote.
+>> This is a double blockquote used for emphasizing a note or quote.
+>>> This is a tripple blockquote used for emphasizing a note or quote.
 ```
 
 > This is a blockquote used for emphasizing a note or quote.
+
+>> This is a double blockquote used for emphasizing a note or quote.
+
+>>> This is a tripple blockquote used for emphasizing a note or quote.
 
 ### 8. Horizontal Lines
 
