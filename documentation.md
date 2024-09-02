@@ -255,6 +255,8 @@ Emphasize important points using bold or italic text and mark some points with `
 
 * **Bold**: Use `**` or `__` to make text bold.
 * *Italics*: Use `*` or `_` to italicize text.
+* ~Crossed off~: Use `~ ~` to cross off text.
+* <mark>Highlited</mark> Use `<mark> </mark>` or `==` to highlight text;
 * `Label`: Use `` ` `` (backticks) to format labels or inline code.
 
 ### 3. Lists
