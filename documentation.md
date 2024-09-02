@@ -325,6 +325,24 @@ Use tables to present data in a structured way.
 | Row 1    | Data 1   | Data 2   |
 | Row 2    | Data 3   | Data 4   |
 
+Here is the table syntax to achieve different alignments:
+
+* **Column 1** will be right-aligned.
+* **Column 2** will be right-aligned.
+* **Column 3** will be center-aligned.
+
+```
+| Column 1 | Column 2 | Column 3 |
+|:---------|---------:|:--------:|
+| Row 1    | Data 1   | Data 2   |
+| Row 2    | Data 3   | Data 4   |
+```
+
+| Column 1 | Column 2 | Column 3 |
+|:---------|---------:|:--------:|
+| Row 1    | Data 1   | Data 2   |
+| Row 2    | Data 3   | Data 4   |
+
 ### 7. Blockquotes 
 
 Use blockquotes to highlight important information or notes.
