@@ -240,6 +240,7 @@ Here's a small set of basic stylistic techniques to make your README more readab
 - [Emojis](#9-emojis)
 - [Custom HTML](#10-custom-html)
 - [Superscripts](#11-superscripts)
+- [Line break](#12-line-break)
 
 ### 1. Headings
 Use headings (`#`, `##`, `###`, `####` etc.) to structure your document and create a clear hierarchy. This helps users quickly navigate through different sections.
@@ -426,6 +427,20 @@ E = mc<sup>2</sup>
 H<sub>2</sub>O
 
 By using these tags, you can create clear and precise scientific and mathematical documentation directly in your README.
+
+### 12. Line break
+
+In order to force a new line, you need to add 2 spaces at the end of the line, followed by the return key or by using `<br>` syntax.
+
+#### Example:
+
+```
+Broke <br> line
+```
+
+#### Rendered output:
+
+Broke <br> line
 
 
 ## Other
